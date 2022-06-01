@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional Node.js entries for the Azure CLI
+node_modules/
