@@ -130,3 +130,5 @@ dmypy.json
 
 # Additional Node.js entries for the Azure CLI
 node_modules/
+
+.python_packages
